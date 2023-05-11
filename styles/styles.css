@@ -29,7 +29,11 @@ nav a {
   font-size: 1.2rem;
   font-weight: 700;
   color: #fff;
-  
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: rgb(4, 43, 73);
 }
 
 h1 {
