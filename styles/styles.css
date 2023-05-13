@@ -78,7 +78,7 @@ main img {
   box-shadow: 0 0 30px gray;
   float: right;
   margin: 0 0 1rem 1rem;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 
 p  {
@@ -99,6 +99,7 @@ aside {
 aside img {
   width: 200px;
   heigth: auto;
+
 }
 
 /* I dont consider the aside h2 necessary in my img */
